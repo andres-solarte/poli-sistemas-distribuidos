@@ -1,0 +1,6 @@
+127.0.0.1 localhost
+
+# Red interna del clúster HPC
+192.168.56.10 master
+192.168.56.11 nodo-0
+192.168.56.12 nodo-1
